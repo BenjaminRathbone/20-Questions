@@ -1,0 +1,33 @@
+Q:Is this object used to type?
+A:Keyboard
+Q:Is this object used to point and click?
+A:Computer Mouse
+Q:Does this object display information from a computer?
+A:Monitor
+Q:Does this object store data?
+Q:Is this object portable?
+Q:Was this object mostly used in the 70s-90s?
+A:Floppy Disk
+A:Thumbdrive
+A:Hard Drive
+Q:Is this object an operating system?
+Q:Is it an Apple OS?
+A:macOS Ventura
+Q:Is this an open-source OS?
+A:Ubuntu
+A:Windows 10
+Q:Is this object a cable?
+Q:Is this object necessary to power a computer?
+A:Power Cable
+A:Ethernet Cable
+Q:Does this object have a negative impact on a computer's performance?
+A:Virus
+Q:Is this object a person?
+Q:Is this person the founder of Microsoft?
+A:Bill Gates
+Q:Is this person a CS 145 student?
+A:Ben
+A:Steve Jobs
+Q:Is this object an IDE?
+A:jGRASP
+A:Computer
